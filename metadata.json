@@ -1,0 +1,8 @@
+{
+  "name": "Ai là triệu phú Toán 11 -bài 2",
+  "description": "Công thức lương giác",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
